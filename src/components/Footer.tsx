@@ -48,7 +48,7 @@ const Footer = () => {
         </div>
       </div>
         <hr />
-        <p className="pl-5 md:pl-[50px] font-medium">@ made BY sayan</p>
+        <p className="pl-5 md:pl-[50px] font-medium">@ made BY Farhan</p>
     </div>
   );
 };
