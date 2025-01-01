@@ -1,7 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
 import sofa from '../../public/banners/sofa.png';
-import { Poppins } from 'next/font/google';
 
 const Hero = () => {
   return (

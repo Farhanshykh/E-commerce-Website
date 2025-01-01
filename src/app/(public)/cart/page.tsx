@@ -3,7 +3,6 @@ import React from "react";
 import { FaTrash } from "react-icons/fa";
 import Link from "next/link";
 import sofa from "../../../../public/products/14.png";
-import cart from "../../../../public/banners/cart.png";
 import ShopBar2 from "@/components/ShopBar2";
 import Banner from "@/components/Banner";
 export default function Cart() {
